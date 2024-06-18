@@ -69,9 +69,10 @@ integrating IoT devices with data analytics for real-time monitoring.
 5. **Liver Ultrasound Detection**
 
     competition url: https://www.kaggle.com/competitions/liver-ultrasound-detection
+   
     solutions url: https://github.com/msarisapim/arisa-superai-ss4-hackathon-lv2/tree/main/exp-1-liver-lesion-detection-main
 
-6. Forest Type Classification (Individual Hackathon)
+7. Forest Type Classification (Individual Hackathon)
 
     competition url: https://www.kaggle.com/competitions/forest-type-classification-spai
 
