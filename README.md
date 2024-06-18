@@ -40,20 +40,39 @@ integrating IoT devices with data analytics for real-time monitoring.
 
 ## Repository Contents
 
-1. **Image Captioning**: rank 
+1. **Image Captioning**
 
-    competition url: 
+    competition url: https://www.kaggle.com/competitions/thai-language-image-captioning
 
-    solutions url: 
+    solutions url: https://github.com/msarisapim/arisa-superai-ss4-hackathon-lv2/tree/main/exp-image-captioning
 
-2. ---
+2. **Legal Act Classification**
 
-3. ---
+    competition url: https://www.kaggle.com/competitions/legal-act-classification
 
-4. ---
+    solutions url: https://github.com/msarisapim/arisa-superai-ss4-hackathon-lv2/tree/main/exp-hackathon3-legal-act-qa-main
 
-5. --
+3. **Brain Motor Imagery Classification**
 
-6. --
+    competition url: https://www.kaggle.com/competitions/brain-motor-imagery-classification
 
-7. -
+    solutions url: https://github.com/msarisapim/arisa-superai-ss4-hackathon-lv2/tree/main/exp-hack4-brain-wave-main
+
+4. **Home Credit - Credit Risk Modeling**
+
+    competition url: https://www.kaggle.com/competitions/home-credit-credit-risk-modeling
+
+    solutions url: https://github.com/msarisapim/arisa-superai-ss4-hackathon-lv2/tree/main/exp-1-home-credit-credit-risk-modeling-main
+
+5. **Liver Ultrasound Detection**
+
+    competition url: https://www.kaggle.com/competitions/liver-ultrasound-detection
+    solutions url: https://github.com/msarisapim/arisa-superai-ss4-hackathon-lv2/tree/main/exp-1-liver-lesion-detection-main
+
+6. Forest Type Classification (Individual Hackathon)
+
+    competition url: https://www.kaggle.com/competitions/forest-type-classification-spai
+
+    solutions url: https://github.com/msarisapim/arisa-superai-ss4-hackathon-lv2/tree/main/401727-forest-type-classification-main
+
+   
