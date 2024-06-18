@@ -1,0 +1,29 @@
+Model,Best Score,Best Parameters,Best Estimator
+LogisticRegression,0.6345694815209025,"{'C': 26.850519942769324, 'solver': 'lbfgs'}","LogisticRegression(C=26.850519942769324, max_iter=1000)"
+KNeighborsClassifier,0.7390843926947694,"{'n_neighbors': 11, 'weights': 'distance'}","KNeighborsClassifier(n_neighbors=11, weights='distance')"
+DecisionTreeClassifier,0.6605140370755043,"{'max_depth': 11, 'min_samples_split': 16}","DecisionTreeClassifier(max_depth=11, min_samples_split=16, random_state=42)"
+AdaBoostClassifier,0.6636577869145615,"{'n_estimators': 199, 'learning_rate': 0.010243921666661823}","AdaBoostClassifier(estimator=DecisionTreeClassifier(random_state=42),
+                   learning_rate=0.010243921666661823, n_estimators=199,
+                   random_state=42)"
+RandomForestClassifier,0.7860245834799702,"{'n_estimators': 855, 'max_depth': 25, 'min_samples_split': 2, 'min_samples_leaf': 1}","RandomForestClassifier(max_depth=25, n_estimators=855, random_state=42)"
+GradientBoostingClassifier,0.7915742854853892,"{'n_estimators': 538, 'learning_rate': 0.09144972080902913, 'max_depth': 16}","GradientBoostingClassifier(learning_rate=0.09144972080902913, max_depth=16,
+                           n_estimators=538, random_state=42)"
+SVC,0.6704118061933659,"{'C': 2.4191248513127914, 'kernel': 'rbf'}",SVC(C=2.4191248513127914)
+MLPClassifier,0.7303905831995721,"{'hidden_layer_sizes': (100, 100), 'activation': 'tanh', 'alpha': 0.00010144736048020429, 'learning_rate_init': 0.001479393863211848, 'max_iter': 745}","MLPClassifier(activation='tanh', alpha=0.00010144736048020429,
+              hidden_layer_sizes=(100, 100),
+              learning_rate_init=0.001479393863211848, max_iter=745,
+              random_state=42)"
+XGBClassifier,0.7911055842153,"{'n_estimators': 983, 'learning_rate': 0.07611485786238478, 'max_depth': 28, 'min_child_weight': 4}","XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=0.07611485786238478,
+              max_bin=None, max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=28, max_leaves=None,
+              min_child_weight=4, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=983, n_jobs=None,
+              num_parallel_tree=None, objective='multi:softprob', ...)"
+LGBMClassifier,0.7941150362085589,"{'n_estimators': 877, 'learning_rate': 0.030266411893756708, 'num_leaves': 152, 'boosting_type': 'gbdt'}","LGBMClassifier(device='gpu', learning_rate=0.030266411893756708,
+               n_estimators=877, num_leaves=152, random_state=42)"
+CatBoostClassifier,0.6768296337942735,"{'iterations': 413, 'learning_rate': 0.004504930931192825, 'depth': 10}",<catboost.core.CatBoostClassifier object at 0x7d415cf7c940>
