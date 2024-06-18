@@ -1,12 +1,13 @@
 # SuperAI SS4 Hackathon Records (Level 2)
 
-## EXP-Hands on experience: Showcasing Our Hackathon Journey
+## EXP-Work with experience: Showcasing Our Hackathon Journey
 Welcome to my GitHub repository showcasing the remarkable achievements of the **EXP** team during the SuperAI SS4 Hackathon. 
 Our team had opportunities of participating in various challenges across multiple AI engineering domains, including Image Processing, Neural Language Processing, Data Science, Signal Processing, and IoT Robotics.
 
 <p align="center">
   <img src="https://i.ibb.co/HgFcpW3/Super-ai-SS-4-498.jpg" alt="SuperAI SS4 - EXP team" width="500"/>
   <img src="https://i.ibb.co/R7nYXwL/1718685601965.jpg" alt="SuperAI SS4 - EXP winner" width="500"/>
+  **https://ss4-exp.superai.aiat.or.th/**
 </p>
 
 
